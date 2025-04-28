@@ -1,0 +1,40 @@
+# Python derleme dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Jupyter Notebook checkpoint dosyaları
+.ipynb_checkpoints
+
+# Sanal ortam dosyaları
+env/
+venv/
+.venv/
+
+# IDE ve editor dosyaları
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Mac ve sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# CSV, Excel gibi büyük veri dosyaları (İstersen!)
+*.csv
+*.xlsx
+
+# Plotly ve matplotlib temporary dosyaları
+*.svg
+*.pdf
+*.png
+*.jpg
+
+# Logs
+*.log
